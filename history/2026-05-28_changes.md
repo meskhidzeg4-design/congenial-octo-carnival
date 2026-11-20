@@ -1,0 +1,6 @@
+## 📉 Trending Down
+
+_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
+
+- <b><a href="https://github.com/tolkonepiu/best-of-mcp-servers">best-of-mcp-servers</a></b> (🥈13 ·  ⭐ 84 · 📉) - A ranked list of MCP servers. Updated weekly.
+
